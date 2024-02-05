@@ -299,3 +299,8 @@ footer div {
 		flex: 2;
 	}
 }
+
+/* Gestion des flèches du carrousel */
+#banner .arrow, .dot {
+    cursor: pointer;
+}
